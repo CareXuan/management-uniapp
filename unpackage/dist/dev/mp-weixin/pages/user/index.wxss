@@ -1,0 +1,14 @@
+
+.container {
+	margin: 10px 8px;
+}
+.avatar-row {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.avatar-col {
+	display: flex;
+	justify-content: center;
+}
+
